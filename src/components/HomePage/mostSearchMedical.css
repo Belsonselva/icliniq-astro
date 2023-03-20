@@ -1,0 +1,13 @@
+.badge-primary-icliniq {
+    background-color: #8ad7f5;
+    color: #1442a0;
+    padding: 0.3rem 1rem;
+    display: inline-block;
+    font-size: .75em;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25rem;
+}

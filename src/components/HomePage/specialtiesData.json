@@ -1,0 +1,103 @@
+{
+    "specialitiesList": {
+        "imagesUrl": [
+            {   "id": 1,
+                "imgurl":"https://assets.icliniq.com/v2/assets/images/specialityImages-pro/obstetrician-and-gynaecologist.svg",
+                "specialitiesLabel": "Obstetrics and Gynecology",
+                "specUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {
+                "id": 2,
+                "imgurl":"https://assets.icliniq.com/v2/assets/images/specialityImages-pro/obstetrician-and-gynaecologist.svg",
+                "specialitiesLabel": "Dermatology",
+                "specUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {
+                "id": 3,
+                "imgurl":"https://assets.icliniq.com/v2/assets/images/specialityImages-pro/obstetrician-and-gynaecologist.svg",
+                "specialitiesLabel": "Internal Medicine",
+                "specUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {
+                "id": 4,
+                "imgurl":"https://assets.icliniq.com/v2/assets/images/specialityImages-pro/obstetrician-and-gynaecologist.svg",
+                "specialitiesLabel": "Sexology",
+                "specUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {
+                "id": 5,
+                "imgurl":"https://assets.icliniq.com/v2/assets/images/specialityImages-pro/obstetrician-and-gynaecologist.svg",
+                "specialitiesLabel": "Psychiatry",
+                "specUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {
+                "id": 6,
+                "imgurl":"https://assets.icliniq.com/v2/assets/images/specialityImages-pro/obstetrician-and-gynaecologist.svg",
+                "specialitiesLabel": "General Medicine",
+                "specUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {
+                "id": 7,
+                "imgurl":"https://assets.icliniq.com/v2/assets/images/specialityImages-pro/obstetrician-and-gynaecologist.svg",
+                "specialitiesLabel": "Otolaryngology (E.N.T)",
+                "specUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {
+                "id": 8,
+                "imgurl":"https://assets.icliniq.com/v2/assets/images/specialityImages-pro/obstetrician-and-gynaecologist.svg",
+                "specialitiesLabel": "Medical Gastroenterology",
+                "specUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {
+                "id": 9,
+                "imgurl":"https://assets.icliniq.com/v2/assets/images/specialityImages-pro/obstetrician-and-gynaecologist.svg",
+                "specialitiesLabel": "Ophthalmology (Eye Care)",
+                "specUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            }
+        ]
+    },
+    "mostSearch": {
+        "medicalConditions": [
+            {   "id": 1,
+                "medicalConditionsLabel": "TSH",
+                "medicalConditionsUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {   "id": 2,
+                "medicalConditionsLabel": "Gastritis",
+                "medicalConditionsUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {   "id": 3,
+                "medicalConditionsLabel": "PCOD",
+                "medicalConditionsUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {   "id": 4,
+                "medicalConditionsLabel": "Allergy",
+                "medicalConditionsUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {   "id": 5,
+                "medicalConditionsLabel": "Lifestyle Modification",
+                "medicalConditionsUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {   "id": 6,
+                "medicalConditionsLabel": "Complete Blood Count",
+                "medicalConditionsUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {   "id": 7,
+                "medicalConditionsLabel": "Itching",
+                "medicalConditionsUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {   "id": 8,
+                "medicalConditionsLabel": "MRI",
+                "medicalConditionsUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {   "id": 9,
+                "medicalConditionsLabel": "TSH Level",
+                "medicalConditionsUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            },
+            {   "id": 10,
+                "medicalConditionsLabel": "Gastritis",
+                "medicalConditionsUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
+            }
+        ]
+    }
+}

@@ -1,0 +1,65 @@
+.single-work-process {
+    text-align: center;
+    cursor: pointer;
+}
+.specialties-brand-block .work-process-icon {
+    display: inline-flex;
+    background-color: #8ad7f5;
+    /* border: 2px solid #8ad7f5; */
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 15px;
+    justify-content: center;
+    align-items: center;
+}
+.specialties-title {
+    font-size: 1rem;
+}
+.primary-brand-color {
+    color: #1341a3!important;
+}
+.fw-bold {
+    font-weight: 700!important;
+}
+.custom-banner-padding {
+    padding: 0 100px;
+}
+.life-altering-block .slick-prev:before{
+    content: ' ';
+}
+.life-altering-block .slick-next:before{
+    content: ' ';
+}
+.life-altering-block .slick-prev{
+    left: -45px;
+}
+.life-altering-block svg{
+    background-color: #1341a3;
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    margin: 0;
+    border-radius: 50%;
+    box-shadow: 0 2px 8px 0 rgb(51 60 63 / 22%);
+}
+.primary-brand-color {
+    color: #1341a3;
+}
+.letter-cta {
+    color: #45C3F2;
+}
+.banner-text-size {
+    font-size: 2.5rem;
+    font-weight: 800;
+    letter-spacing: -0.9px;
+    line-height: 1;
+}
+.life-altering-block .slick-prev, .life-altering-block .slick-next{
+    top: 30%;
+}

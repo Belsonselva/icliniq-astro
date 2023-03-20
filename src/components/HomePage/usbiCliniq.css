@@ -1,0 +1,89 @@
+.iCliniq-services {
+    background-color: #f1f4f8;
+}
+.services-block{
+    display: flex;
+    height: 100%;
+    width: 90%!important;
+    position: relative;
+    overflow: hidden;
+    /* margin-bottom: 80px; */
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    color: #1341a3;
+    border-radius: 30px;
+    box-shadow: 0 1px 13px 0px rgb(0 0 0 / 16%);
+    -webkit-box-shadow: 0 1px 13px 0px rgb(0 0 0 / 16%);
+    -moz-box-shadow: 0 1px 13px 0px rgba(0,0,0,.16);
+}
+.services-block img {
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+.personality-brand-image {
+    height: auto;
+}
+.services-block-description {
+    padding: 30px;
+}
+.services-block-heading {
+    font-size: 2rem;
+    margin-bottom: 0;
+    color: #fff;
+    font-weight: 800;
+    line-height: 1.1;
+}
+.semi-bold {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+    font-weight: 600;
+}
+.service-block-subtitle {
+    font-family: 'Nunito Sans', sans-serif;
+}
+.usb1{
+    background-color: #53449f;
+}
+.usb2{
+    background-color: #8a1831;
+}
+.usb3{
+    background-color: #b25906;
+}
+.usb4{
+    background-color: #80b214;
+}
+.usb5{
+    background-color: #0041bd;
+}
+.usb-carousel .slick-arrow{
+    display: flex!important;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 100%;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 2px 8px 0 rgb(51 60 63 / 22%);
+}
+.usb-carousel .slick-arrow svg{
+    color: #333;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+}
+.usb-carousel .slick-prev:before, .usb-carousel .slick-next:before{
+    content: '';
+}
+.usb-carousel{
+    padding: 0 40px;
+}
+.slick-slide {
+    opacity: 0.5;
+    filter: grayscale(100%);
+}
+.slick-slide.slick-active{
+    opacity: 1;
+    filter: grayscale(0);
+}

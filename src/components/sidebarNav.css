@@ -1,0 +1,35 @@
+.nav-drill {
+    display: flex;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    width: 400px;
+    background-color: #1341a3;
+    /* overflow-y: auto; */
+    overflow-x: hidden;
+    /* height: 100vh; */
+    -webkit-overflow-scrolling: touch;
+    transition: 0.45s all ease;
+}
+.nav-drill ul {
+    list-style: none;
+    padding-left: 0;
+    width: 100%;
+    /* overflow-y: auto; */
+    overflow-x: hidden;
+    height: 150vh;
+    z-index: 111;
+}
+.icon-close-name path{
+    stroke: #fff;
+}
+.close-div-icon{
+    cursor: pointer;
+}
+.nav-drill.hidden{
+    transition: 0.45s all ease;
+    /* display: none; */
+    /* visibility: hidden; */
+    left: -400px;
+}

@@ -1,0 +1,100 @@
+.banner-icliniq {
+    background-image: url(https://assets.icliniq.com/v2/assets/images/hompage-image/Banner-min-bg.jpg);
+    background-size: 90%;
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-color: #E4E8F1;
+    color: #10327a;
+    padding: 120px 0 0 0;
+}
+.banner-icliniq .banner-text-size {
+    font-size: 3.5rem;
+    font-weight: 700;
+    line-height: 1;
+}
+.banner-icliniq .banner-text-sub {
+    font-size: 3rem;
+    font-weight: 300;
+    padding-bottom: 1rem;
+}
+.banner-icliniq .custom-banner-padding {
+    padding: 0 15px 0 100px;
+}
+.nunito-Sans{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.banner-icliniq .banner-text-sub-heading{
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding-bottom: 2rem;
+    color: #192849;
+}
+.cta-banner-icliniq {
+    text-transform: none;
+    display: inline-flex;
+    align-items: center;
+    background-color: #1341a3;
+    color: #fff;
+    margin-bottom: 10px;
+    border-radius: 50px;
+    font-weight: 600;
+    padding: 0.8rem 3rem;
+    transition: 0.5s;
+    border: 2px solid #1341a3;
+    font-size: 1rem;
+}
+.cta-banner-icliniq:hover{
+    background-color: #fff;
+    color: #1341a3;
+    transition: 0.5s;
+    border: 2px solid #1341a3;
+}
+.icon-right-arrow{
+    font-size: 27px;
+    color: #fff;
+    transition: 0.5s;
+    margin-left: 10px;
+    display: inline-block;
+}
+.cta-banner-icliniq:hover .icon-right-arrow{
+    color: #1341a3;
+    transition: 0.5s;
+}
+.cta-sub-banner-icliniq {
+    display: inline-flex;
+    align-items: center;
+    text-transform: none;
+    font-size: 1rem;
+    background-color: #E4E8F1;
+    color: #1341a3;
+    margin-bottom: 10px;
+    border-radius: 50px;
+    font-weight: 600;
+    padding: 0.8rem 3rem;
+    border: 2px solid #1341a3;
+}
+.cta-sub-banner-icliniq:hover{
+    background-color: #fff;
+}
+.query-free-consult {
+    display: inline-flex;
+    border-radius: 3px;
+    padding: 10px;
+    font-size: 1rem;
+    background-color: #E6F4EA;
+    color: #29A84D;
+}
+.million{
+    font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;fill:#000000;fill-opacity:1;stroke:none
+}
+.million-text-clr{
+    fill:#8c8c8c
+}
+.trust-ic {
+    font-size: 11px;
+    font-weight: 600;
+    color: #8c8c8c;
+}
+.border-right-ic {
+    border-right: 2px solid #8C8C8C;
+}
