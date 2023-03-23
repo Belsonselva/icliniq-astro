@@ -1,0 +1,43 @@
+.doctor-panel-card-flex-left {
+    display: flex;
+    justify-content: left;
+}
+.doctor-panel-card {
+    background: #e2eaecc7;
+    position: relative;
+    padding: 10px;
+    margin: 28px 0;
+    width: 75%;
+    box-shadow: 0 1px 14px 0 rgb(0 0 0 / 29%);
+    -webkit-box-shadow: 0 1px 14px 0 rgb(0 0 0 / 29%);
+    border-radius: 4px;
+}
+.mask {
+    position: absolute;
+    background: #e2eaecc7;
+    width: 100%;
+    top: 0;
+    left: 0;
+    filter: blur(10px);
+    -webkit-filter: blur(10px);
+    -moz-filter: blur(10px);
+    -o-filter: blur(10px);
+    -ms-filter: blur(10px);
+    height: 100%;
+    z-index: -1;
+}
+.img-container {
+    box-shadow: 0 0 8px #ccc;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+}
+.doctor-panel-card-flex-right {
+    display: flex;
+    justify-content: right;
+}
+.choose-doctor-img-bg {
+    position: absolute;
+    z-index: 0;
+}

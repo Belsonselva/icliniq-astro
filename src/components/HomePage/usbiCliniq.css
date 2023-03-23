@@ -79,11 +79,11 @@
 .usb-carousel{
     padding: 0 40px;
 }
-.slick-slide {
+.usb-carousel .slick-slide {
     opacity: 0.5;
     filter: grayscale(100%);
 }
-.slick-slide.slick-active{
+.usb-carousel .slick-slide.slick-active{
     opacity: 1;
     filter: grayscale(0);
 }

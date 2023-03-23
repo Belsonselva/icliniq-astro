@@ -99,5 +99,29 @@
                 "medicalConditionsUrl": "https://www.icliniq.com/ask-a-doctor-online/obstetrician-and-gynecologist"
             }
         ]
+    },
+    "iCliniqReview": {
+        "reviewArray": [
+            {   "id": 1,
+                "review": "Thank you doc",
+                "reviewState": "Nagpur, India"
+            },
+            {   "id": 2,
+                "review": "Thank you for your support and words me and my girlfriend really got scared and don't know whom to ask ........thank you so much",
+                "reviewState": "Bengalure, India"
+            },
+            {   "id": 3,
+                "review": "your support and words me and my girlfriend really got scared",
+                "reviewState": "New Delhi, India"
+            },
+            {   "id": 4,
+                "review": "Very speed response and very clear &detailing about medicines",
+                "reviewState": "Ashburn UK"
+            },
+            {   "id": 5,
+                "review": "TSH",
+                "reviewState": "Bengalure"
+            }
+        ]
     }
 }
