@@ -1,6 +1,6 @@
 import Slider from "react-slick"
-import {BsChevronRight} from 'react-icons/bs'
-import {BsChevronLeft} from 'react-icons/bs'
+import {BsChevronRight} from 'react-icons/bs/index.js'
+import {BsChevronLeft} from 'react-icons/bs/index.js'
 import './usbiCliniq.css'
 
 type CustomArrowProps = {

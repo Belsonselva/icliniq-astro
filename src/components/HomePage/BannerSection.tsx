@@ -1,7 +1,7 @@
 import React from 'react'
 import './bannerSection.css'
 import { IconContext } from 'react-icons';
-import {BsArrowRight} from 'react-icons/bs'
+import {BsArrowRight} from 'react-icons/bs/index.js'
 
 function BannerSection() {
   return (

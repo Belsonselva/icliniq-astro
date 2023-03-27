@@ -1,7 +1,7 @@
 // import React, {  useState } from 'react';
 import './sidebarNav.css'
 import { IconContext } from 'react-icons';
-import {GrClose} from 'react-icons/gr'
+import {GrClose} from 'react-icons/gr/index.js'
 
 type Props = {
   show: boolean;
